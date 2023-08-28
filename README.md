@@ -111,40 +111,40 @@ print(df1)
 
 ## OUTPUT :
 
-df.head() :
+### df.head() :
 
 ![Screenshot 2023-08-28 161148](https://github.com/Abrinnisha6/Ex.No.1---Data-Preprocessing/assets/118889454/0ea2d5d8-f985-4ba8-9390-b47ce4e2f8c2)
 
-df.isnull().sum() :
+### df.isnull().sum() :
 
 ![Screenshot 2023-08-28 161229](https://github.com/Abrinnisha6/Ex.No.1---Data-Preprocessing/assets/118889454/2c4c7db6-fb1f-4feb-a7a7-3f50bc81710a)
 
-df value :
+### df value :
 
 ![Screenshot 2023-08-28 161407](https://github.com/Abrinnisha6/Ex.No.1---Data-Preprocessing/assets/118889454/dfa69f88-93fd-411a-a489-6f856f786c21)
 
-VALUES OF INPUT AND OUTPUT DATA ON VAR X AND Y :
+### VALUES OF INPUT AND OUTPUT DATA ON VAR X AND Y :
 
 ![Screenshot 2023-08-28 161459](https://github.com/Abrinnisha6/Ex.No.1---Data-Preprocessing/assets/118889454/e479141c-f60c-44b8-8c0a-c0733e74670e)
 
 ![Screenshot 2023-08-28 161506](https://github.com/Abrinnisha6/Ex.No.1---Data-Preprocessing/assets/118889454/a32b1459-cbd3-44a9-a2e8-079f9f762a8f)
 
 
-NORMALIZING DATA:
+### NORMALIZING DATA:
 
 ![Screenshot 2023-08-28 161544](https://github.com/Abrinnisha6/Ex.No.1---Data-Preprocessing/assets/118889454/53188c26-e359-4cf8-aa1b-1df5073b35a1)
 
 
-X_TRAIN AND Y_TRAIN VALUES :
+### X_TRAIN AND Y_TRAIN VALUES :
 
 ![Screenshot 2023-08-28 161638](https://github.com/Abrinnisha6/Ex.No.1---Data-Preprocessing/assets/118889454/73f46868-d029-4946-a929-7b93ef538ec2)
 
 
-X AND Y VALUES :
+### X AND Y VALUES :
 
 ![Screenshot 2023-08-28 161715](https://github.com/Abrinnisha6/Ex.No.1---Data-Preprocessing/assets/118889454/4a85cb4d-40b2-4342-9949-7d1a35334ab6)
 
-X_TEST AND Y_TEST VALUES :
+### X_TEST AND Y_TEST VALUES :
 
 ![Screenshot 2023-08-28 161751](https://github.com/Abrinnisha6/Ex.No.1---Data-Preprocessing/assets/118889454/8c23e0b3-b34e-4785-bdf5-89a7bbfa1a31)
 
